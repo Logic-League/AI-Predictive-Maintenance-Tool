@@ -1,4 +1,4 @@
-# 🛠️ AI Predictive Maintenance Tool
+# AI Predictive Maintenance Tool
 
 ## Sector-Specific AI Prototype – Manufacturing Sector
 
@@ -8,18 +8,18 @@
 **AI Technique:** Predictive Analytics  
 **Team Size:** 3–5 Members  
 
-🔗 **Figma Prototype:**  
+ **Figma Prototype:**  
 https://www.figma.com/design/nMZgDEvJarL2peUDoUCiBw/AI-Predictive-Maintenance-Tool
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **AI Predictive Maintenance Tool** is a no-code AI prototype designed to help manufacturing organizations predict equipment failures before they occur. The solution analyzes machine performance data and provides AI-driven insights to reduce downtime, lower maintenance costs, and improve operational efficiency.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 ### Identified Challenge
 Manufacturing companies often rely on reactive or scheduled maintenance approaches, which can result in:
@@ -39,7 +39,7 @@ Predictive analytics enables early detection of equipment issues by identifying 
 
 ---
 
-## 🧠 Existing AI Applications in Manufacturing
+##  Existing AI Applications in Manufacturing
 
 1. **Siemens MindSphere**  
    AI-driven industrial IoT platform for monitoring equipment health.
@@ -52,7 +52,7 @@ Predictive analytics enables early detection of equipment issues by identifying 
 
 ---
 
-## ⚙️ Proposed Solution
+##  Proposed Solution
 
 The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be used to:
 - Collect machine data
@@ -61,7 +61,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🧩 Technical Specifications
+##  Technical Specifications
 
 ### AI Technique Used
 **Predictive Analytics**
@@ -75,7 +75,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🔄 Data Flow Diagram (Conceptual)
+##  Data Flow Diagram (Conceptual)
 
 1. **User Input**
    - Machine ID
@@ -94,7 +94,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🧑‍💻 User Interaction Touchpoints
+##  User Interaction Touchpoints
 
 1. **Machine Data Entry Screen**
    - Manual data input or file upload
@@ -107,7 +107,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🚨 Error Handling
+## Error Handling
 
 - Alerts for missing or invalid data
 - User-friendly error messages
@@ -115,7 +115,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🔌 API Connections & Dependencies
+##  API Connections & Dependencies
 
 | Component | Description |
 |--------|------------|
@@ -127,7 +127,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 🎨 User Experience Design
+##  User Experience Design
 
 - Clean and intuitive dashboard
 - Manufacturing-focused design
@@ -136,7 +136,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 📽️ Demo Video
+##  Demo Video
 
 **Duration:** 2 minutes
 
@@ -148,7 +148,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 📊 Project Presentation (10–12 Slides)
+##  Project Presentation (10–12 Slides)
 
 1. Project Title & Team
 2. Problem Definition
@@ -165,7 +165,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## ⚖️ Ethical Considerations
+##  Ethical Considerations
 
 ### Bias in Training Data
 - Risk of biased predictions due to incomplete or unbalanced historical data
@@ -189,7 +189,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## ✅ Evaluation Alignment
+##  Evaluation Alignment
 
 - Clear and impactful problem definition
 - Feasible AI implementation
@@ -199,7 +199,7 @@ The AI Predictive Maintenance Tool demonstrates how a no-code AI system can be u
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The **AI Predictive Maintenance Tool** showcases how predictive analytics can be applied in the manufacturing sector to reduce downtime, cut costs, and improve efficiency. This prototype meets all **CAPACITI Tech Career Accelerator** requirements and demonstrates a practical, scalable AI solution.
 
